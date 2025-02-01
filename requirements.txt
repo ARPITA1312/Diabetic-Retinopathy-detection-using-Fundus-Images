@@ -1,0 +1,10 @@
+torch==1.13.0                     # PyTorch for deep learning
+torchvision==0.14.0               # For image transformations and pre-trained models
+numpy==1.23.1                     # For numerical operations
+pandas==1.4.2                     # For data manipulation and analysis
+scikit-learn==1.1.2               # For machine learning utilities (e.g., SVM, KNN)
+matplotlib==3.5.2                 # For plotting and visualizations
+Pillow==9.1.0                     # For image processing
+opencv-python==4.6.0.66           # For image processing (optional)
+tqdm==4.64.0                      # For progress bars
+scipy==1.8.1                      # For scientific computations (optional)
